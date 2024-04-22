@@ -1,0 +1,21 @@
+{
+    "name": "clearswitch/lets-go-constants",
+    "description": "constants package",
+    "type": "library",
+    "require": {
+        "phpdocumentor/reflection-docblock": "5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clearswitch\\LetsGoConstants\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daikai",
+            "email": "903221813@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
